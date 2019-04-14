@@ -1,0 +1,12 @@
+#!/bin/bash
+
+#SBATCH --job-name=vector
+#SBATCH --output=vector.out
+#SBATCH --error=vector.err
+#SBATCH --time=00:02:00
+#SBATCH --partition=broadwl
+#SBATCH --nodes=2
+#SBATCH --ntasks-per-node=1
+#SBATCH --mem-per-cpu=2000
+
+mpirun ./vector

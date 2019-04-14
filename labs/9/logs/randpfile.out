@@ -1,0 +1,530 @@
+output file: /project2/rcc/ivy2/test.out
+each process will write 50 blocks of integers
+  1: received broadcast
+ 25: received broadcast
+ 24: received broadcast
+  5: received broadcast
+ 23: received broadcast
+ 13: received broadcast
+  4: received broadcast
+ 26: received broadcast
+ 16: received broadcast
+  6: received broadcast
+ 21: received broadcast
+  7: received broadcast
+  8: received broadcast
+  0: received broadcast
+ 17: received broadcast
+ 27: received broadcast
+ 28: received broadcast
+  2: received broadcast
+ 22: received broadcast
+ 20: received broadcast
+ 14: received broadcast
+  1: filename = /project2/rcc/ivy2/test.out
+ 10: received broadcast
+ 12: received broadcast
+ 29: received broadcast
+ 19: received broadcast
+ 18: received broadcast
+  3: received broadcast
+ 25: filename = /project2/rcc/ivy2/test.out
+ 24: filename = /project2/rcc/ivy2/test.out
+ 15: received broadcast
+  5: filename = /project2/rcc/ivy2/test.out
+ 23: filename = /project2/rcc/ivy2/test.out
+ 13: filename = /project2/rcc/ivy2/test.out
+  4: filename = /project2/rcc/ivy2/test.out
+ 26: filename = /project2/rcc/ivy2/test.out
+ 16: filename = /project2/rcc/ivy2/test.out
+  6: filename = /project2/rcc/ivy2/test.out
+ 21: filename = /project2/rcc/ivy2/test.out
+  7: filename = /project2/rcc/ivy2/test.out
+  8: filename = /project2/rcc/ivy2/test.out
+  0: filename = /project2/rcc/ivy2/test.out
+ 17: filename = /project2/rcc/ivy2/test.out
+ 27: filename = /project2/rcc/ivy2/test.out
+ 28: filename = /project2/rcc/ivy2/test.out
+  2: filename = /project2/rcc/ivy2/test.out
+ 22: filename = /project2/rcc/ivy2/test.out
+ 11: received broadcast
+ 20: filename = /project2/rcc/ivy2/test.out
+ 14: filename = /project2/rcc/ivy2/test.out
+  9: received broadcast
+ 10: filename = /project2/rcc/ivy2/test.out
+ 12: filename = /project2/rcc/ivy2/test.out
+ 29: filename = /project2/rcc/ivy2/test.out
+ 19: filename = /project2/rcc/ivy2/test.out
+ 18: filename = /project2/rcc/ivy2/test.out
+  3: filename = /project2/rcc/ivy2/test.out
+ 15: filename = /project2/rcc/ivy2/test.out
+number_of_bytes       = 209715200/process
+ 11: filename = /project2/rcc/ivy2/test.out
+  9: filename = /project2/rcc/ivy2/test.out
+total_number_of_bytes = 6291456000
+size of offset        = 8 bytes
+  0: my current offset is 0
+  3: my current offset is 629145600
+  2: my current offset is 419430400
+  1: my current offset is 209715200
+ 24: my current offset is 5033164800
+ 15: my current offset is 3145728000
+ 23: my current offset is 4823449600
+  4: my current offset is 838860800
+ 26: my current offset is 5452595200
+ 16: my current offset is 3355443200
+  6: my current offset is 1258291200
+  7: my current offset is 1468006400
+  8: my current offset is 1677721600
+ 27: my current offset is 5662310400
+ 22: my current offset is 4613734400
+ 11: my current offset is 2306867200
+ 20: my current offset is 4194304000
+ 14: my current offset is 2936012800
+ 10: my current offset is 2097152000
+ 12: my current offset is 2516582400
+ 25: my current offset is 5242880000
+  5: my current offset is 1048576000
+ 13: my current offset is 2726297600
+ 21: my current offset is 4404019200
+ 17: my current offset is 3565158400
+  9: my current offset is 1887436800
+ 19: my current offset is 3984588800
+ 29: my current offset is 6081740800
+ 18: my current offset is 3774873600
+ 28: my current offset is 5872025600
+ 10: wrote 52428800 integers
+ 10: my current offset is 2306867200
+ 24: wrote 52428800 integers
+ 24: my current offset is 5242880000
+ 25: wrote 52428800 integers
+ 25: my current offset is 5452595200
+  9: wrote 52428800 integers
+  9: my current offset is 2097152000
+ 13: wrote 52428800 integers
+ 13: my current offset is 2936012800
+ 11: wrote 52428800 integers
+ 11: my current offset is 2516582400
+  3: wrote 52428800 integers
+  3: my current offset is 838860800
+ 28: wrote 52428800 integers
+ 28: my current offset is 6081740800
+ 14: wrote 52428800 integers
+ 14: my current offset is 3145728000
+ 23: wrote 52428800 integers
+ 23: my current offset is 5033164800
+ 15: wrote 52428800 integers
+  5: wrote 52428800 integers
+  4: wrote 52428800 integers
+ 26: wrote 52428800 integers
+ 16: wrote 52428800 integers
+  6: wrote 52428800 integers
+ 21: wrote 52428800 integers
+  7: wrote 52428800 integers
+  8: wrote 52428800 integers
+  0: wrote 52428800 integers
+ 17: wrote 52428800 integers
+ 27: wrote 52428800 integers
+  2: wrote 52428800 integers
+ 22: wrote 52428800 integers
+ 20: wrote 52428800 integers
+  1: wrote 52428800 integers
+ 12: wrote 52428800 integers
+ 29: wrote 52428800 integers
+ 19: wrote 52428800 integers
+ 18: wrote 52428800 integers
+ 15: my current offset is 3355443200
+  5: my current offset is 1258291200
+  4: my current offset is 1048576000
+ 26: my current offset is 5662310400
+ 16: my current offset is 3565158400
+  6: my current offset is 1468006400
+ 21: my current offset is 4613734400
+  7: my current offset is 1677721600
+  8: my current offset is 1887436800
+  0: my current offset is 209715200
+ 17: my current offset is 3774873600
+ 27: my current offset is 5872025600
+  2: my current offset is 629145600
+ 22: my current offset is 4823449600
+ 20: my current offset is 4404019200
+  1: my current offset is 419430400
+ 12: my current offset is 2726297600
+ 29: my current offset is 6291456000
+ 19: my current offset is 4194304000
+ 18: my current offset is 3984588800
+longest_io_time       = 0.278035 seconds
+total_number_of_bytes = 6291456000
+transfer rate         = 21580.022690 MB/s
+========================
+input file: /project2/rcc/ivy2/test.out
+  0: allocated space for filename
+  7: allocated space for filename
+ 22: allocated space for filename
+  5: allocated space for filename
+ 28: allocated space for filename
+ 19: allocated space for filename
+ 26: allocated space for filename
+ 17: allocated space for filename
+ 20: allocated space for filename
+  8: allocated space for filename
+ 27: allocated space for filename
+  2: allocated space for filename
+  6: allocated space for filename
+ 24: allocated space for filename
+ 14: allocated space for filename
+ 25: allocated space for filename
+ 21: allocated space for filename
+ 11: allocated space for filename
+ 16: allocated space for filename
+ 12: allocated space for filename
+  3: allocated space for filename
+  4: allocated space for filename
+ 15: allocated space for filename
+ 23: allocated space for filename
+ 13: allocated space for filename
+  1: allocated space for filename
+ 29: allocated space for filename
+  0: received broadcast
+  9: allocated space for filename
+ 10: allocated space for filename
+ 19: received broadcast
+ 18: allocated space for filename
+  7: received broadcast
+ 26: received broadcast
+ 17: received broadcast
+ 20: received broadcast
+  8: received broadcast
+ 27: received broadcast
+  2: received broadcast
+  6: received broadcast
+ 24: received broadcast
+ 14: received broadcast
+ 25: received broadcast
+ 22: received broadcast
+ 21: received broadcast
+  5: received broadcast
+ 11: received broadcast
+ 16: received broadcast
+ 12: received broadcast
+  3: received broadcast
+  4: received broadcast
+ 15: received broadcast
+ 23: received broadcast
+ 13: received broadcast
+  1: received broadcast
+ 29: received broadcast
+ 28: received broadcast
+  0: filename = /project2/rcc/ivy2/test.out
+  9: received broadcast
+ 10: received broadcast
+ 19: filename = /project2/rcc/ivy2/test.out
+ 18: received broadcast
+  7: filename = /project2/rcc/ivy2/test.out
+ 26: filename = /project2/rcc/ivy2/test.out
+ 17: filename = /project2/rcc/ivy2/test.out
+ 20: filename = /project2/rcc/ivy2/test.out
+  8: filename = /project2/rcc/ivy2/test.out
+ 27: filename = /project2/rcc/ivy2/test.out
+  2: filename = /project2/rcc/ivy2/test.out
+  6: filename = /project2/rcc/ivy2/test.out
+ 24: filename = /project2/rcc/ivy2/test.out
+ 14: filename = /project2/rcc/ivy2/test.out
+ 25: filename = /project2/rcc/ivy2/test.out
+ 22: filename = /project2/rcc/ivy2/test.out
+ 21: filename = /project2/rcc/ivy2/test.out
+  5: filename = /project2/rcc/ivy2/test.out
+ 11: filename = /project2/rcc/ivy2/test.out
+ 16: filename = /project2/rcc/ivy2/test.out
+ 12: filename = /project2/rcc/ivy2/test.out
+  3: filename = /project2/rcc/ivy2/test.out
+  4: filename = /project2/rcc/ivy2/test.out
+ 15: filename = /project2/rcc/ivy2/test.out
+ 23: filename = /project2/rcc/ivy2/test.out
+ 13: filename = /project2/rcc/ivy2/test.out
+  1: filename = /project2/rcc/ivy2/test.out
+ 29: filename = /project2/rcc/ivy2/test.out
+ 28: filename = /project2/rcc/ivy2/test.out
+  9: filename = /project2/rcc/ivy2/test.out
+ 10: filename = /project2/rcc/ivy2/test.out
+ 18: filename = /project2/rcc/ivy2/test.out
+  0: total_number_of_bytes = 6291456000
+  0: allocated 209715200 bytes
+  0: my offset = 0
+ 20: total_number_of_bytes = 6291456000
+ 20: allocated 209715200 bytes
+ 20: my offset = 4194304000
+ 27: total_number_of_bytes = 6291456000
+ 24: total_number_of_bytes = 6291456000
+  4: total_number_of_bytes = 6291456000
+ 27: allocated 209715200 bytes
+ 24: allocated 209715200 bytes
+  4: allocated 209715200 bytes
+ 10: total_number_of_bytes = 6291456000
+ 27: my offset = 5662310400
+ 24: my offset = 5033164800
+  4: my offset = 838860800
+ 10: allocated 209715200 bytes
+ 10: my offset = 2097152000
+  2: total_number_of_bytes = 6291456000
+  2: allocated 209715200 bytes
+ 15: total_number_of_bytes = 6291456000
+  2: my offset = 419430400
+ 14: total_number_of_bytes = 6291456000
+ 25: total_number_of_bytes = 6291456000
+  5: total_number_of_bytes = 6291456000
+ 15: allocated 209715200 bytes
+ 29: total_number_of_bytes = 6291456000
+  6: total_number_of_bytes = 6291456000
+ 14: allocated 209715200 bytes
+ 25: allocated 209715200 bytes
+  5: allocated 209715200 bytes
+ 15: my offset = 3145728000
+ 29: allocated 209715200 bytes
+  8: total_number_of_bytes = 6291456000
+  6: allocated 209715200 bytes
+ 14: my offset = 2936012800
+ 25: my offset = 5242880000
+  5: my offset = 1048576000
+ 29: my offset = 6081740800
+  8: allocated 209715200 bytes
+  6: my offset = 1258291200
+ 16: total_number_of_bytes = 6291456000
+ 12: total_number_of_bytes = 6291456000
+ 23: total_number_of_bytes = 6291456000
+ 13: total_number_of_bytes = 6291456000
+  8: my offset = 1677721600
+ 22: total_number_of_bytes = 6291456000
+ 11: total_number_of_bytes = 6291456000
+ 16: allocated 209715200 bytes
+ 12: allocated 209715200 bytes
+ 23: allocated 209715200 bytes
+ 13: allocated 209715200 bytes
+  7: total_number_of_bytes = 6291456000
+ 26: total_number_of_bytes = 6291456000
+ 17: total_number_of_bytes = 6291456000
+ 22: allocated 209715200 bytes
+ 11: allocated 209715200 bytes
+ 16: my offset = 3355443200
+ 12: my offset = 2516582400
+ 23: my offset = 4823449600
+ 13: my offset = 2726297600
+ 28: total_number_of_bytes = 6291456000
+  9: total_number_of_bytes = 6291456000
+ 19: total_number_of_bytes = 6291456000
+ 18: total_number_of_bytes = 6291456000
+  7: allocated 209715200 bytes
+ 26: allocated 209715200 bytes
+ 17: allocated 209715200 bytes
+ 22: my offset = 4613734400
+ 21: total_number_of_bytes = 6291456000
+ 11: my offset = 2306867200
+  3: total_number_of_bytes = 6291456000
+  1: total_number_of_bytes = 6291456000
+ 28: allocated 209715200 bytes
+  9: allocated 209715200 bytes
+ 19: allocated 209715200 bytes
+ 18: allocated 209715200 bytes
+  7: my offset = 1468006400
+ 26: my offset = 5452595200
+ 17: my offset = 3565158400
+ 21: allocated 209715200 bytes
+  3: allocated 209715200 bytes
+  1: allocated 209715200 bytes
+ 28: my offset = 5872025600
+  9: my offset = 1887436800
+ 19: my offset = 3984588800
+ 18: my offset = 3774873600
+ 21: my offset = 4404019200
+  3: my offset = 629145600
+  1: my offset = 209715200
+ 19: read 209715200 bytes
+ 19: my offset = 4194304000
+ 11: read 209715200 bytes
+ 11: my offset = 2516582400
+ 20: read 209715200 bytes
+ 20: my offset = 4404019200
+ 24: read 209715200 bytes
+ 24: my offset = 5242880000
+ 28: read 209715200 bytes
+ 28: my offset = 6081740800
+ 27: read 209715200 bytes
+ 27: my offset = 5872025600
+ 14: read 209715200 bytes
+ 14: my offset = 3145728000
+ 18: read 209715200 bytes
+ 18: my offset = 3984588800
+ 13: read 209715200 bytes
+ 13: my offset = 2936012800
+ 25: read 209715200 bytes
+ 25: my offset = 5452595200
+  9: read 209715200 bytes
+  9: my offset = 2097152000
+ 29: read 209715200 bytes
+ 29: my offset = 6291456000
+ 10: read 209715200 bytes
+ 10: my offset = 2306867200
+ 23: read 209715200 bytes
+ 23: my offset = 5033164800
+ 26: read 209715200 bytes
+ 26: my offset = 5662310400
+  3: read 209715200 bytes
+  3: my offset = 838860800
+  5: read 209715200 bytes
+  5: my offset = 1258291200
+  2: read 209715200 bytes
+  2: my offset = 629145600
+ 12: read 209715200 bytes
+ 12: my offset = 2726297600
+  1: read 209715200 bytes
+  1: my offset = 419430400
+  6: read 209715200 bytes
+  6: my offset = 1468006400
+ 22: read 209715200 bytes
+ 22: my offset = 4823449600
+ 21: read 209715200 bytes
+ 21: my offset = 4613734400
+  0: read 209715200 bytes
+  0: my offset = 209715200
+ 16: read 209715200 bytes
+ 17: read 209715200 bytes
+ 16: my offset = 3565158400
+ 17: my offset = 3774873600
+  8: read 209715200 bytes
+  8: my offset = 1887436800
+ 15: read 209715200 bytes
+ 15: my offset = 3355443200
+  4: read 209715200 bytes
+  4: my offset = 1048576000
+  7: read 209715200 bytes
+  7: my offset = 1677721600
+longest_io_time       = 0.166927 seconds
+total_number_of_bytes = 6291456000
+transfer rate         = 35943.834331 MB/s
+========================
+basename         = /project2/rcc/ivy2/test_s
+basename_length  = 26
+number_of_blocks = 50
+  0: basename = /project2/rcc/ivy2/test_s, number_of_blocks = 50
+  1: basename = /project2/rcc/ivy2/test_s, number_of_blocks = 50
+  0: opening file /project2/rcc/ivy2/test_s.0
+ 25: basename = /project2/rcc/ivy2/test_s, number_of_blocks = 50
+ 14: basename = /project2/rcc/ivy2/test_s, number_of_blocks = 50
+ 27: basename = /project2/rcc/ivy2/test_s, number_of_blocks = 50
+ 28: basename = /project2/rcc/ivy2/test_s, number_of_blocks = 50
+ 11: basename = /project2/rcc/ivy2/test_s, number_of_blocks = 50
+ 26: basename = /project2/rcc/ivy2/test_s, number_of_blocks = 50
+ 24: basename = /project2/rcc/ivy2/test_s, number_of_blocks = 50
+  7: basename = /project2/rcc/ivy2/test_s, number_of_blocks = 50
+  6: basename = /project2/rcc/ivy2/test_s, number_of_blocks = 50
+  8: basename = /project2/rcc/ivy2/test_s, number_of_blocks = 50
+ 15: basename = /project2/rcc/ivy2/test_s, number_of_blocks = 50
+ 29: basename = /project2/rcc/ivy2/test_s, number_of_blocks = 50
+  5: basename = /project2/rcc/ivy2/test_s, number_of_blocks = 50
+ 10: basename = /project2/rcc/ivy2/test_s, number_of_blocks = 50
+  1: opening file /project2/rcc/ivy2/test_s.1
+  4: basename = /project2/rcc/ivy2/test_s, number_of_blocks = 50
+ 22: basename = /project2/rcc/ivy2/test_s, number_of_blocks = 50
+ 13: basename = /project2/rcc/ivy2/test_s, number_of_blocks = 50
+ 12: basename = /project2/rcc/ivy2/test_s, number_of_blocks = 50
+ 17: basename = /project2/rcc/ivy2/test_s, number_of_blocks = 50
+ 16: basename = /project2/rcc/ivy2/test_s, number_of_blocks = 50
+  2: basename = /project2/rcc/ivy2/test_s, number_of_blocks = 50
+ 19: basename = /project2/rcc/ivy2/test_s, number_of_blocks = 50
+ 18: basename = /project2/rcc/ivy2/test_s, number_of_blocks = 50
+ 20: basename = /project2/rcc/ivy2/test_s, number_of_blocks = 50
+ 25: opening file /project2/rcc/ivy2/test_s.25
+ 23: basename = /project2/rcc/ivy2/test_s, number_of_blocks = 50
+ 14: opening file /project2/rcc/ivy2/test_s.14
+ 27: opening file /project2/rcc/ivy2/test_s.27
+ 28: opening file /project2/rcc/ivy2/test_s.28
+ 11: opening file /project2/rcc/ivy2/test_s.11
+ 26: opening file /project2/rcc/ivy2/test_s.26
+  3: basename = /project2/rcc/ivy2/test_s, number_of_blocks = 50
+ 24: opening file /project2/rcc/ivy2/test_s.24
+  7: opening file /project2/rcc/ivy2/test_s.7
+  6: opening file /project2/rcc/ivy2/test_s.6
+  8: opening file /project2/rcc/ivy2/test_s.8
+ 15: opening file /project2/rcc/ivy2/test_s.15
+ 29: opening file /project2/rcc/ivy2/test_s.29
+  5: opening file /project2/rcc/ivy2/test_s.5
+ 10: opening file /project2/rcc/ivy2/test_s.10
+  4: opening file /project2/rcc/ivy2/test_s.4
+ 22: opening file /project2/rcc/ivy2/test_s.22
+ 21: basename = /project2/rcc/ivy2/test_s, number_of_blocks = 50
+ 13: opening file /project2/rcc/ivy2/test_s.13
+ 12: opening file /project2/rcc/ivy2/test_s.12
+ 17: opening file /project2/rcc/ivy2/test_s.17
+ 16: opening file /project2/rcc/ivy2/test_s.16
+  2: opening file /project2/rcc/ivy2/test_s.2
+  9: basename = /project2/rcc/ivy2/test_s, number_of_blocks = 50
+ 19: opening file /project2/rcc/ivy2/test_s.19
+ 18: opening file /project2/rcc/ivy2/test_s.18
+ 20: opening file /project2/rcc/ivy2/test_s.20
+ 23: opening file /project2/rcc/ivy2/test_s.23
+  3: opening file /project2/rcc/ivy2/test_s.3
+ 21: opening file /project2/rcc/ivy2/test_s.21
+  9: opening file /project2/rcc/ivy2/test_s.9
+ 24: io_time = 0.136107
+ 28: io_time = 0.141463
+ 25: io_time = 0.141889
+ 29: io_time = 0.141514
+ 11: io_time = 0.150937
+ 20: io_time = 0.148667
+ 10: io_time = 0.145391
+ 27: io_time = 0.149970
+ 26: io_time = 0.151750
+ 14: io_time = 0.153441
+  3: io_time = 0.172616
+ 23: io_time = 0.184223
+ 13: io_time = 0.135417
+ 19: io_time = 0.151454
+ 15: io_time = 0.147525
+ 21: io_time = 0.148601
+  9: io_time = 0.132377
+  1: io_time = 0.151369
+  2: io_time = 0.144516
+  5: io_time = 0.146638
+  6: io_time = 0.144733
+ 12: io_time = 0.150380
+ 16: io_time = 0.156530
+  4: io_time = 0.158052
+ 17: io_time = 0.164363
+  0: io_time = 0.154844
+  8: io_time = 0.170423
+ 22: io_time = 0.231857
+  7: io_time = 0.201854
+ 18: io_time = 0.420835
+ 19: closed /project2/rcc/ivy2/test_s.19
+ 20: closed /project2/rcc/ivy2/test_s.20
+ 25: closed /project2/rcc/ivy2/test_s.25
+ 23: closed /project2/rcc/ivy2/test_s.23
+ 14: closed /project2/rcc/ivy2/test_s.14
+ 27: closed /project2/rcc/ivy2/test_s.27
+ 26: closed /project2/rcc/ivy2/test_s.26
+  3: closed /project2/rcc/ivy2/test_s.3
+ 24: closed /project2/rcc/ivy2/test_s.24
+  7: closed /project2/rcc/ivy2/test_s.7
+  6: closed /project2/rcc/ivy2/test_s.6
+  8: closed /project2/rcc/ivy2/test_s.8
+ 15: closed /project2/rcc/ivy2/test_s.15
+ 29: closed /project2/rcc/ivy2/test_s.29
+ 10: closed /project2/rcc/ivy2/test_s.10
+  1: closed /project2/rcc/ivy2/test_s.1
+  4: closed /project2/rcc/ivy2/test_s.4
+ 22: closed /project2/rcc/ivy2/test_s.22
+ 21: closed /project2/rcc/ivy2/test_s.21
+ 17: closed /project2/rcc/ivy2/test_s.17
+ 16: closed /project2/rcc/ivy2/test_s.16
+  2: closed /project2/rcc/ivy2/test_s.2
+ 28: closed /project2/rcc/ivy2/test_s.28
+ 11: closed /project2/rcc/ivy2/test_s.11
+  5: closed /project2/rcc/ivy2/test_s.5
+ 13: closed /project2/rcc/ivy2/test_s.13
+ 12: closed /project2/rcc/ivy2/test_s.12
+  9: closed /project2/rcc/ivy2/test_s.9
+  0: closed /project2/rcc/ivy2/test_s.0
+ 18: closed /project2/rcc/ivy2/test_s.18
+longest_io_time       = 0.420835 seconds
+total_number_of_bytes = 6291456000
+transfer rate         = 14257.368663 MB/s

@@ -1,0 +1,21 @@
+#!/bin/bash
+
+#SBATCH --job-name=io
+#SBATCH --output=io.out
+#SBATCH --error=io.err
+#SBATCH --time=00:10:00
+#SBATCH --partition=broadwl
+#SBATCH --nodes=30
+#SBATCH --mem-per-cpu=4000
+
+source ../env.sh
+
+mpirun ./mkrandpfile -f /project2/rcc/ivy2/test.out -l 50
+echo "========================"
+mpirun ./xrandpfile -f /project2/rcc/ivy2/test.out
+echo "========================"
+mpirun ./mkdrandfiles -f /project2/rcc/ivy2/test_s -l 50
+echo "========================"
+mpirun ./darray -f /project2/rcc/ivy2/test.fv -v
+
+
